@@ -52,3 +52,27 @@
 9. Market-Basket Analysis: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2025s1/blob/main/code/Class04_ML/9_Market_Basket_Intro_v2.ipynb)
 
 10. Scikit-learn pipeline: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2025s1/blob/main/code/Class04_ML/10_Scikit_learn_Pipeline.ipynb)
+
+### Additional: Advanced ML
+
+1. Text Classification (TF-IDF) [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2025s1/blob/main/code/Class05_AdvancedML/5_1_tfidf_for_Sentiment_Analysis.ipynb)
+
+2. Text Classification (BERT) [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2025s1/blob/main/code/Class05_AdvancedML/5_2_NLP_Transfer_Learning_for_Text_Classification_Using_Hugging_Face_Transformers_Trainer.ipynb#scrollTo=tQqHYsWVTV6D)
+
+3. Text Classification (Phayathaibert) [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2025s1/blob/main/code/Class05_AdvancedML/5_3_Wongnai_Review_Rating_Classifiacation_(Pytorch_lightning).ipynb)
+
+4. Multi-label Text Classification (microsoft/deberta-v3-small) [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2025s1/blob/main/code/Class05_AdvancedML/5_4_Multi_label_Text_Classification.ipynb)
+
+### Class08: Introduction to Data Engineerng and Data Storage
+
+1. Redis: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2025s1/blob/main/code/Class08_Intro_to_DataEng_and_DataStorage/Simple_Example.ipynb)
+
+### Class09: Data Extraction
+
+1. Basic Webpage Scraping: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2025s1/blob/main/code/Class09_DataExtraction/1_Basic_Webpage_Scraping.ipynb)
+
+2. Wikipedia: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2025s1/blob/main/code/Class09_DataExtraction/2_Wikipedia_page_data_extraction.ipynb)
+
+3. REST API: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2025s1/blob/main/code/Class09_DataExtraction/3_REST_API_Data_Extraction.ipynb)
+
+4. Selenium: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2025s1/blob/main/code/Class09_DataExtraction/4_Selenium.ipynb)
