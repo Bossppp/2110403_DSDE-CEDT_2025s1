@@ -1,0 +1,39 @@
+submitted verification: {'vid': 'V263945', 'txid': 'TX00622', 'signature': '63837499c9215f4fb157b990a8fb1b7f'}
+waiting for result for txid: TX00622
+received result: {'timestamp': 1763634841, 'vid': 'V263945', 'txid': 'TX00622', 'checksum': '09e7881e62318c85beeb0f1d62a86c07', 'code': 200, 'message': 'Confirm'}
+verification SUCCESS for TX00622
+-----------------------------------
+submitted verification: {'vid': 'V263945', 'txid': 'TX02206', 'signature': 'e8b10c2be70a3c4dd15a401d8b54a162'}
+waiting for result for txid: TX02206
+received result: {'timestamp': 1763634842, 'vid': 'V263945', 'txid': 'TX02206', 'checksum': '153dce883a2315fd84a2e0de85c56a1b', 'code': 200, 'message': 'Confirm'}
+verification SUCCESS for TX02206
+-----------------------------------
+submitted verification: {'vid': 'V263945', 'txid': 'TX06957', 'signature': '054ada7122f04a8c651a90e96439d7ac'}
+waiting for result for txid: TX06957
+received result: {'timestamp': 1763634843, 'vid': 'V263945', 'txid': 'TX06957', 'checksum': 'dd434d95b6f449f04ef77a71504e270e', 'code': 200, 'message': 'Confirm'}
+verification SUCCESS for TX06957
+-----------------------------------
+submitted verification: {'vid': 'V263945', 'txid': 'TX02227', 'signature': '06b36968be3a1a990e0a1773c9af7744'}
+waiting for result for txid: TX02227
+received result: {'timestamp': 1763634844, 'vid': 'V263945', 'txid': 'TX02227', 'checksum': 'f5dfc928e5f62e538ee24ccf7f623578', 'code': 200, 'message': 'Confirm'}
+verification SUCCESS for TX02227
+-----------------------------------
+submitted verification: {'vid': 'V263945', 'txid': 'TX05718', 'signature': '99437d03021c6de42f48f98e4bb2b3ff'}
+waiting for result for txid: TX05718
+received result: {'timestamp': 1763634845, 'vid': 'V263945', 'txid': 'TX05718', 'checksum': 'c0be3fcb48d92a0675ac07b3e902d92c', 'code': 200, 'message': 'Confirm'}
+verification SUCCESS for TX05718
+-----------------------------------
+submitted verification: {'vid': 'V263945', 'txid': 'TX09690', 'signature': '3529d16538c1c6e620e395643d75412e'}
+waiting for result for txid: TX09690
+received result: {'timestamp': 1763634846, 'vid': 'V263945', 'txid': 'TX09690', 'checksum': '78449bda28692f15ad840dd9b9ea62e4', 'code': 200, 'message': 'Confirm'}
+verification SUCCESS for TX09690
+-----------------------------------
+submitted verification: {'vid': 'V263945', 'txid': 'TX05384', 'signature': 'd24efa44925589fc38ca1314dd10865b'}
+waiting for result for txid: TX05384
+received result: {'timestamp': 1763634847, 'vid': 'V263945', 'txid': 'TX05384', 'checksum': '89e4503dfc7541f3e3313dd3db9cd14a', 'code': 200, 'message': 'Confirm'}
+verification SUCCESS for TX05384
+-----------------------------------
+submitted verification: {'vid': 'V263945', 'txid': 'TX02918', 'signature': '2ad655f10a12d7b9345aad02f229fa74'}
+waiting for result for txid: TX02918
+received result: {'timestamp': 1763634848, 'vid': 'V263945', 'txid': 'TX02918', 'checksum': '87aa05f35451dae7016c07400ec77dca', 'code': 200, 'message': 'Confirm'}
+verification SUCCESS for TX02918
